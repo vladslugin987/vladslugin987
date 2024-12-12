@@ -1,56 +1,49 @@
-## Hi there 👋
+<div align="center">
+  
+  # Hello there! 👋
 
-```css
-                         _    _______ ____  _______    __
-                        | |  / / ___// __ \/ ____/ |  / /
-                        | | / /\__ \/ / / / __/  | | / / 
-                        | |/ /___/ / /_/ / /___  | |/ /  
-                        |___//____/_____/_____/  |___(_)
+  [![Website](https://img.shields.io/badge/Website-vsdev.top-blue?style=flat-square&logo=google-chrome)](https://vsdev.top)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vladislav-slugin)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/vladslugin987)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=vladslugin987&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+</div>
+
+## 🚀 Current Focus
+
+- 🎓 Computer Science Student at Goethe University Frankfurt
+- 💼 Working Student at Devoteam
+- 🔧 Building efficient software solutions and automation tools
+- 🤖 Exploring AI/ML technologies
+
+## 🛠️ Tech Stack
+
+```javascript
+const techStack = {
+    languages: ['Python', 'Java', 'Kotlin', 'JavaScript/TypeScript'],
+    core_focus: ['Software Development', 'System Architecture', 'Automation'],
+    frameworks: ['Spring', 'Compose Multiplatform'],
+    databases: ['MongoDB', 'MySQL'],
+    tools: ['Docker', 'Git', 'Google Apps Script'],
+    current_learning: ['Machine Learning', 'Cloud Technologies']
+};
 ```
-                                 
 
-# 👋 Hi there! I'm Vladislav Slugin
+## 📈 GitHub Activity
 
-**Age:** 21 (17.12.2002)  
-**Location:** Frankfurt, Germany (Originally from Almaty, Kazakhstan)  
-**Currently:** Studying Computer Science at Goethe University Frankfurt  
-**Working:** Working Student at Devoteam GmbH
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=tokyonight)
+
+<img src="https://github-profile-trophy.vercel.app/?username=vladslugin987&theme=tokyonight&column=7" alt="GitHub Trophies" />
 
 ---
 
-## 🚀 About Me
-
-I've been passionate about programming for as long as I can remember. My journey began back in 2014 when I created my first simple website using HTML and CSS. Since then, I've participated in programming competitions and worked as a freelancer during my school years, building websites.
-
-My interests don't stop at web development. In my quest for knowledge, I've also delved into creating exploits and finding vulnerabilities in computer games for scientific purposes. 
-
----
-
-## 🖥️ Professional Interests
-
-- **Web Development**: I have extensive experience in creating websites and web applications.
-- **Software Development**: I am passionate about developing robust and efficient software solutions.
-- **Machine Learning & AI**: I am particularly fascinated by integrating machine learning and artificial intelligence into software development.
-- **Game Development**: I love making games, participating in game jams, and creating pixel art. My game development experience spans across Unity, Unreal Engine, and Godot.
-- **Music**: With an 8-year background in music school, I enjoy composing music as well.
-
----
-
-## 🎯 Looking For
-
-I'm on the lookout for new contacts and friends who share my passion for programming and innovation. Let's create something that can change the world for the better!
-
----
-
-## 📫 Contact Me
-
-Feel free to reach out to me via email: vladslugin987@gmail.com
-
----
-
-```diff
-+ Let's code the future together! 🚀
-
-
-
-
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=vladslugin987&color=blue)
+  
+  <a href="mailto:vslugin@vsdev.top">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  
+</div>
