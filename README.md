@@ -13,7 +13,7 @@
 ## 🚀 Current Focus
 
 - 🎓 Computer Science Student at Goethe University Frankfurt
-- 💼 Working Student at Devoteam
+- 💼 Working Student
 - 🔧 Building efficient software solutions and automation tools
 - 🤖 Exploring AI/ML technologies
 
