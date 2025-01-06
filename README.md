@@ -38,7 +38,7 @@ const techStack = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=tokyonight)
 
-<img src="https://github-profile-trophy.vercel.app/?username=vladslugin987&theme=tokyonight&column=3" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=vladslugin987&theme=tokyonight&column=8" alt="GitHub Trophies" />
 
 ---
 
