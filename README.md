@@ -16,7 +16,7 @@
 
 ## 🚀 Current Focus
 
-- 🎓 Computer Science Student at Goethe University Frankfurt
+- 🎓 Computer Science Student
 - 💼 Working Student
 - 🔧 Building efficient software solutions and automation tools
 - 🤖 Exploring AI/ML technologies
