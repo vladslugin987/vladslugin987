@@ -36,8 +36,7 @@
 
 ## 📈 Activity & Stack (brief)
 
-<pre><samp>
-Languages: Kotlin/Java, Python, TypeScript
+<pre><samp>Languages: Kotlin/Java, Python, TypeScript
 Frameworks: Spring, Compose Multiplatform
 Databases: MongoDB, MySQL
 Tools: Docker, Git, Google Apps Script
