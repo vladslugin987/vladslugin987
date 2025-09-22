@@ -1,13 +1,13 @@
 <div align="center">
 
   <pre><samp>
-┌──────────────────────────────────────────────────────────────┐
-│ Vladislav Slugin                                              │
+┌────────────────────────────────────────────────────────────────┐
+│ Vladislav Slugin                                               │
 │ Software Engineer · Backend · System Architecture · Automation │
 │ Kotlin/Java · Python · TypeScript                              │
 │ Spring · Compose Multiplatform · Docker · Git                  │
 │ MongoDB · MySQL · AI/ML · Cloud                                │
-└──────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────┘
   </samp></pre>
 
   <samp>Building reliable software and automation tools. Open to collaboration.</samp>
@@ -28,8 +28,7 @@
 
 ## 🚀 Current Focus
 
-<pre><samp>
-- Computer Science student
+<pre><samp>- Computer Science student
 - Building efficient software solutions and automation tools
 - Exploring AI/ML and cloud technologies
 </samp></pre>
