@@ -3,7 +3,7 @@
   <pre><samp>
 ┌────────────────────────────────────────────────────────────────┐
 │ Vladislav Slugin                                               │
-│ Software Engineer · Backend · System Architecture · Automation │
+│ Software Developer                                             │
 │ Kotlin/Java · Python · TypeScript                              │
 │ Spring · Compose Multiplatform · Docker · Git                  │
 │ MongoDB · MySQL · AI/ML · Cloud                                │
