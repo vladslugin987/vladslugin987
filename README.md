@@ -51,10 +51,6 @@ Tools: Docker, Git, Google Apps Script
   
   <img src="https://komarev.com/ghpvc/?username=vladslugin987&color=blue" alt="GitHub profile views counter for vladslugin987" />
   
-  <a href="mailto:vslugin@vsdev.top">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email Vladislav Slugin" />
-  </a>
-  
 </div>
 
 <sub>
