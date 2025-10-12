@@ -10,7 +10,7 @@
 └────────────────────────────────────────────────────────────────┘
   </samp></pre>
 
-  <samp>Building reliable software and automation tools. Open to collaboration.</samp>
+  <samp>Open to collaboration.</samp>
 
   
   
