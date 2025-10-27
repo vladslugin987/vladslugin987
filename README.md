@@ -1,15 +1,4 @@
 <div align="center">
-
-  <pre><samp>
-┌────────────────────────────────────────────────────────────────┐
-│ Vladislav Slugin                                               │
-│ Software Developer                                             │
-│ Kotlin/Java · Python · TypeScript                              │
-│ Spring · Compose Multiplatform · Docker · Git                  │
-│ MongoDB · MySQL · AI/ML · Cloud                                │
-└────────────────────────────────────────────────────────────────┘
-  </samp></pre>
-
   <samp>Open to collaboration.</samp>
 
   
