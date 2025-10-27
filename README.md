@@ -15,20 +15,6 @@
 
 </div>
 
-## 🚀 Current Focus
-
-<pre><samp>- Computer Science student
-- Building efficient software solutions and automation tools
-- Exploring AI/ML and cloud technologies
-</samp></pre>
-
-## 📈 Activity & Stack (brief)
-
-<pre><samp>Languages: Kotlin/Java, Python, TypeScript
-Frameworks: Spring, Compose Multiplatform
-Databases: MongoDB, MySQL
-Tools: Docker, Git, Google Apps Script
-</samp></pre>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=tokyonight" alt="Top languages used by Vladislav Slugin" />
 
