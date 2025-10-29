@@ -31,5 +31,5 @@
 <sub>
 Keywords: Vladislav Slugin, Software Engineer, Backend Developer, Kotlin, Java, Python,
 TypeScript, Spring, Compose Multiplatform, Docker, Git, MongoDB, MySQL, Automation,
-AI/ML, Cloud.
+AI/ML, Cloud. 
 </sub>
