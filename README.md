@@ -37,9 +37,29 @@
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- ================== GITHUB STATS ================== -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladslugin987&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=tokyonight" alt="Top languages" />
+
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vladslugin987&show_icons=true&theme=react&bg_color=0d1117&title_color=58a6ff&icon_color=ff79c6&text_color=c9d1d9" 
+       alt="GitHub Stats" width="500"/>
+
+  <br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=react&bg_color=0d1117&title_color=58a6ff" 
+       alt="Top Languages" width="500"/>
+
+  <br/>
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vladslugin987&theme=onedark&column=6&margin-w=10" 
+       alt="GitHub Trophies" width="500"/>
+
+  <br/>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=vladslugin987&color=58a6ff" 
+       alt="Profile Views"/>
+
 </div>
