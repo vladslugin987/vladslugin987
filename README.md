@@ -35,34 +35,28 @@
 | Name of the project 2 | Java | [GitHub](https://github.com/vladslugin987/) |
 | Name of the project 3 | Kotlin | [GitHub](https://github.com/vladslugin987/) |
 
----
-
-<!-- ================== GITHUB DASHBOARD ================== -->
-<div align="center">
+---<div align="center">
 
   <div style="display:inline-block; margin:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vladslugin987&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff79c6&icon_color=58a6ff&text_color=c9d1d9" 
-         alt="GitHub Stats" width="320"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vladslugin987&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&icon_color=1e90ff&text_color=333333" alt="GitHub Stats" width="320"/>
   </div>
 
   <div style="display:inline-block; margin:10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=radical&bg_color=0d1117&title_color=ff79c6" 
-         alt="Top Languages" width="320"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=default&bg_color=ffffff&title_color=000000" alt="Top Languages" width="320"/>
   </div>
 
   <br/><br/>
 
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=vladslugin987&theme=onedark&column=6&margin-w=10" 
-         alt="GitHub Trophies" width="720"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vladslugin987&theme=light&column=6&margin-w=10" alt="GitHub Trophies" width="720"/>
   </div>
 
   <br/>
 
   <div>
-    <img src="https://komarev.com/ghpvc/?username=vladslugin987&color=ff79c6" 
-         alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=vladslugin987&color=1e90ff" alt="Profile Views"/>
   </div>
 
 </div>
+
 
