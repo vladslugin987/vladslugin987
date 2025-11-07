@@ -40,32 +40,29 @@
 <!-- ================== GITHUB DASHBOARD ================== -->
 <div align="center">
 
-  <table>
-    <tr>
-      <!-- GitHub Stats -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=vladslugin987&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff79c6&icon_color=58a6ff&text_color=c9d1d9" 
-             alt="GitHub Stats" width="350"/>
-      </td>
+  <div style="display:inline-block; margin:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vladslugin987&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff79c6&icon_color=58a6ff&text_color=c9d1d9" 
+         alt="GitHub Stats" width="320"/>
+  </div>
 
-      <!-- Top Languages -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=radical&bg_color=0d1117&title_color=ff79c6" 
-             alt="Top Languages" width="350"/>
-      </td>
-    </tr>
-    <tr>
-      <!-- GitHub Trophies -->
-      <td colspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=vladslugin987&theme=onedark&column=6&margin-w=10" 
-             alt="GitHub Trophies" width="720"/>
-      </td>
-    </tr>
-  </table>
+  <div style="display:inline-block; margin:10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=radical&bg_color=0d1117&title_color=ff79c6" 
+         alt="Top Languages" width="320"/>
+  </div>
+
+  <br/><br/>
+
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=vladslugin987&theme=onedark&column=6&margin-w=10" 
+         alt="GitHub Trophies" width="720"/>
+  </div>
 
   <br/>
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=vladslugin987&color=ff79c6" 
-       alt="Profile Views"/>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=vladslugin987&color=ff79c6" 
+         alt="Profile Views"/>
+  </div>
+
 </div>
+
