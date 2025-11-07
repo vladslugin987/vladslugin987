@@ -1,35 +1,45 @@
 <div align="center">
-  <samp>Open to collaboration.</samp>
+  <h1>👋 Hi, I'm Vladislav!</h1>
+  <p>Backend / Fullstack Developer | Java, Kotlin, Spring, Docker, Cloud</p>
 
-  
-  
-  <br/>
-  
-  [![Website](https://img.shields.io/badge/Website-vsdev.top-blue?style=flat-square&logo=google-chrome)](https://vsdev.top)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vladislav-slugin)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/vladslugin987)
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=vladslugin987&show_icons=true&theme=tokyonight" alt="GitHub stats for Vladislav Slugin (vladslugin987)" />
-
+  <!-- Contacts -->
+  <p>
+    <a href="https://vsdev.top">
+      <img src="https://img.shields.io/badge/Website-vsdev.top-blue?style=flat-square&logo=google-chrome" alt="Website" />
+    </a>
+    <a href="https://linkedin.com/in/vladislav-slugin">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/vladslugin987">
+      <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub" />
+    </a>
+  </p>
 </div>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=tokyonight" alt="Top languages used by Vladislav Slugin" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=vladslugin987&theme=tokyonight&column=8" alt="GitHub Profile Trophies for Vladislav Slugin" />
 
 ---
 
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=vladslugin987&color=blue" alt="GitHub profile views counter for vladslugin987" />
-  
-</div>
+## 🛠️ Skills
 
-<sub>
-Keywords: Vladislav Slugin, Software Engineer, Backend Developer, Kotlin, Java, Python,
-TypeScript, Spring, Compose Multiplatform, Docker, Git, MongoDB, MySQL, Automation,
-AI/ML, Cloud. 
-</sub>
+| Backend | Frontend | DevOps & Tools | Database |
+|---------|----------|----------------|---------|
+| Java, Kotlin, Spring Boot | HTML, CSS, JavaScript, TypeScript | Docker, Git, CI/CD | MongoDB, MySQL |
+| REST API, GraphQL | Compose Multiplatform | Cloud (AWS, GCP) | SQL, NoSQL |
+
+---
+
+## 📂 Projects
+
+| Project | Technologies | Link |
+|---------|-------------|------|
+| Name of the project 1 | Java, Spring Boot, Docker | [GitHub](https://github.com/vladslugin987/) |
+| Name of the project 2 | Java | [GitHub](https://github.com/vladslugin987/) |
+| Name of the project 3 | Kotlin | [GitHub](https://github.com/vladslugin987/) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vladslugin987&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladslugin987&layout=compact&theme=tokyonight" alt="Top languages" />
+</div>
