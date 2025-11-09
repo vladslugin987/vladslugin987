@@ -15,26 +15,6 @@
     </a>
   </p>
 </div>
-<!--
----
-
-## 🛠️ Skills
-
-| Backend | Frontend | DevOps & Tools | Database |
-|---------|----------|----------------|---------|
-| Java, Kotlin, Spring Boot | HTML, CSS, JavaScript, TypeScript | Docker, Git, CI/CD | MongoDB, MySQL |
-| REST API, GraphQL | Compose Multiplatform | Cloud (AWS, GCP) | SQL, NoSQL |
-
----
-
-## 📂 Projects
-
-| Project | Technologies | Link |
-|---------|-------------|------|
-| Name of the project 1 | Java, Spring Boot, Docker | [GitHub](https://github.com/vladslugin987/) |
-| Name of the project 2 | Java | [GitHub](https://github.com/vladslugin987/) |
-| Name of the project 3 | Kotlin | [GitHub](https://github.com/vladslugin987/) |
--->
 ---
 
 <div align="center">
@@ -53,3 +33,26 @@
 <img src="https://komarev.com/ghpvc/?username=vladslugin987&color=70a5fd" alt="Profile Views"/>
 
 </div>
+
+<!--
+
+
+## 🛠️ Skills
+
+| Backend | Frontend | DevOps & Tools | Database |
+|---------|----------|----------------|---------|
+| Java, Kotlin, Spring Boot | HTML, CSS, JavaScript, TypeScript | Docker, Git, CI/CD | MongoDB, MySQL |
+| REST API, GraphQL | Compose Multiplatform | Cloud (AWS, GCP) | SQL, NoSQL |
+
+---
+
+## 📂 Projects
+
+| Project | Technologies | Link |
+|---------|-------------|------|
+| Name of the project 1 | Java, Spring Boot, Docker | [GitHub](https://github.com/vladslugin987/) |
+| Name of the project 2 | Java | [GitHub](https://github.com/vladslugin987/) |
+| Name of the project 3 | Kotlin | [GitHub](https://github.com/vladslugin987/) |
+
+---
+
