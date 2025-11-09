@@ -7,9 +7,11 @@
     <a href="https://vsdev.top">
       <img src="https://img.shields.io/badge/Website-vsdev.top-blue?style=flat-square&logo=google-chrome" alt="Website" />
     </a>
+    
     <a href="https://linkedin.com/in/vladislav-slugin">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
     </a>
+    
     <a href="https://github.com/vladslugin987">
       <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub" />
     </a>
