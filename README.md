@@ -15,7 +15,7 @@
     </a>
   </p>
 </div>
-
+<!--
 ---
 
 ## 🛠️ Skills
@@ -34,7 +34,7 @@
 | Name of the project 1 | Java, Spring Boot, Docker | [GitHub](https://github.com/vladslugin987/) |
 | Name of the project 2 | Java | [GitHub](https://github.com/vladslugin987/) |
 | Name of the project 3 | Kotlin | [GitHub](https://github.com/vladslugin987/) |
-
+-->
 ---
 
 <div align="center">
